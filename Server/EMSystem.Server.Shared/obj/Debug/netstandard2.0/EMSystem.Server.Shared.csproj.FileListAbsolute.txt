@@ -1,0 +1,13 @@
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\bin\Debug\netstandard2.0\EMSystem.Server.Shared.deps.json
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\bin\Debug\netstandard2.0\EMSystem.Server.Shared.dll
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\bin\Debug\netstandard2.0\EMSystem.Server.Shared.pdb
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\bin\Debug\netstandard2.0\vi\EMSystem.Server.Shared.resources.dll
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.csprojAssemblyReference.cache
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.String.ErrorResource.resources
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.String.ErrorResource.vi.resources
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.csproj.GenerateResource.cache
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.AssemblyInfoInputs.cache
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.AssemblyInfo.cs
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\vi\EMSystem.Server.Shared.resources.dll
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.dll
+D:\asp\Project\ASP\Server\EMSystem.Server.Shared\obj\Debug\netstandard2.0\EMSystem.Server.Shared.pdb

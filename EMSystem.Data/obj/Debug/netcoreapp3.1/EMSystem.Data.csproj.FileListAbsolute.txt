@@ -1,0 +1,13 @@
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSystem.Data.deps.json
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSystem.Data.runtimeconfig.json
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSystem.Data.runtimeconfig.dev.json
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSystem.Data.dll
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSystem.Data.pdb
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSytem.Domain.dll
+D:\asp\Project\ASP\EMSystem.Data\bin\Debug\netcoreapp3.1\EMSytem.Domain.pdb
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.csprojAssemblyReference.cache
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.AssemblyInfoInputs.cache
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.AssemblyInfo.cs
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.csproj.CopyComplete
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.dll
+D:\asp\Project\ASP\EMSystem.Data\obj\Debug\netcoreapp3.1\EMSystem.Data.pdb

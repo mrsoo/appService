@@ -1,0 +1,8 @@
+D:\asp\Project\ASP\EMSytem.Domain\bin\Debug\netstandard2.0\EMSytem.Domain.deps.json
+D:\asp\Project\ASP\EMSytem.Domain\bin\Debug\netstandard2.0\EMSytem.Domain.dll
+D:\asp\Project\ASP\EMSytem.Domain\bin\Debug\netstandard2.0\EMSytem.Domain.pdb
+D:\asp\Project\ASP\EMSytem.Domain\obj\Debug\netstandard2.0\EMSytem.Domain.csprojAssemblyReference.cache
+D:\asp\Project\ASP\EMSytem.Domain\obj\Debug\netstandard2.0\EMSytem.Domain.AssemblyInfoInputs.cache
+D:\asp\Project\ASP\EMSytem.Domain\obj\Debug\netstandard2.0\EMSytem.Domain.AssemblyInfo.cs
+D:\asp\Project\ASP\EMSytem.Domain\obj\Debug\netstandard2.0\EMSytem.Domain.dll
+D:\asp\Project\ASP\EMSytem.Domain\obj\Debug\netstandard2.0\EMSytem.Domain.pdb
