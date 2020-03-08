@@ -79,11 +79,7 @@ namespace EMSystem.Indentity
                       .AllowAnyHeader()
                       ));
 
-            services.AddAuthorization(opt =>
-            {
-                opt.AddPolicy("Admin", policy => policy.RequireRole("Admin"));
-                opt.AddPolicy("User", policy => policy.RequireRole("User"));
-            });
+            
 
         }
 
